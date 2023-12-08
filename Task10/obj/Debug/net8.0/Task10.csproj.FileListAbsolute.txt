@@ -12,3 +12,4 @@ C:\Users\РомаЛиля\Desktop\C#Task10\Task10\obj\Debug\net8.0\refint\Task10
 C:\Users\РомаЛиля\Desktop\C#Task10\Task10\obj\Debug\net8.0\Task10.pdb
 C:\Users\РомаЛиля\Desktop\C#Task10\Task10\obj\Debug\net8.0\Task10.genruntimeconfig.cache
 C:\Users\РомаЛиля\Desktop\C#Task10\Task10\obj\Debug\net8.0\ref\Task10.dll
+C:\Users\РомаЛиля\Desktop\C#Task10\Task10\obj\Debug\net8.0\Task10.sourcelink.json
